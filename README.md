@@ -1,24 +1,22 @@
-# podcast-ia-jessica
-Projeto de podcast criado com auxílio de IA. Contém roteiro, prompts utilizados, áudio final editado e recursos visuais para publicação e portfólio.
 # Projeto de Podcast com IA
 
 ## Descrição
-Este repositório contém o projeto completo de criação de um podcast utilizando inteligência artificial. Inclui os prompts aplicados em cada etapa, o roteiro criado, o áudio final editado e arquivos auxiliares usados durante o desenvolvimento.  
-O objetivo é demonstrar domínio de ferramentas de IA, organização de fluxo criativo e documentação para portfólio dentro do bootcamp da DIO.
+Este repositório apresenta o projeto completo de criação de um podcast utilizando inteligência artificial. Aqui estão os prompts usados nas etapas, o roteiro criado, o áudio final editado e materiais extras de apoio.  
+O objetivo é demonstrar domínio de ferramentas de IA, organização do fluxo criativo e documentação adequada para portfólio dentro do bootcamp da DIO.
 
 ## Conteúdo do repositório
 • prompts-utilizados.md  
-• áudio final do podcast  
-• roteiro  
-• materiais extras (capa, arquivo de apoio, figma, se houver)
+• Áudio final do podcast  
+• Roteiro do episódio  
+• Materiais extras (capa, arquivo de apoio ou figma, se houver)
 
 ## Objetivo do projeto
-Registrar todo o processo de criação de um podcast usando IA para estudo e portfólio.
+Registrar de forma clara e organizada todo o processo de criação de um podcast usando IA, servindo como estudo e portfólio.
 
 ## Tecnologias utilizadas
 • ChatGPT  
-• Editor de áudio (CapCut, Audacity ou outro)  
-• GitHub  
+• Editor de áudio (CapCut, Audacity ou similar)  
+• GitHub
 
 ## Referência do bootcamp
 Repositório do expert  
