@@ -1,0 +1,21 @@
+# Prompts Utilizados no Projeto de Podcast
+
+## 1. Criação do roteiro
+Prompt:
+Crie um roteiro simples e objetivo para um podcast curto sobre como a inteligência artificial facilita o meu dia a dia. Quero algo leve, claro e fácil de ouvir.
+
+## 2. Transformação em texto narrado
+Prompt:
+Transforme este roteiro em um texto natural para ser narrado, mantendo tom simples e acessível.
+
+## 3. Prompt usado no ElevenLabs
+Prompt:
+Narração clara, natural e calma. Voz feminina suave. Use o texto do roteiro abaixo sem alterar nada.
+
+## 4. Revisões no ChatGPT
+Prompt:
+Revise o texto e deixe natural para áudio, mantendo minha escrita no singular e sem travessões.
+
+## 5. Organização do repositório
+Prompt:
+Me ajude a montar o README.md do meu projeto de podcast com IA, incluindo descrição, objetivo, tecnologias e referência do bootcamp.
